@@ -1,8 +1,7 @@
 # Shigure Discord Bot
 Discord bot by Weylan Shyer
 
-Shigure to jeden z nielicznych polskich botów do Discord.
-Jest to niewielki bot zakładający by być maksymalnie prostym a jednocześnie wydajnym botem.
+Shigure to jeden z nielicznych polskich botów Discorda. Zaprogramowana jako lokalny bot, moderujący jeden wybrany serwer na raz. Założenie jest takie by zrobić maksymalnie prostego a jednocześnie wydajnego bota, którego nie dotyczą problemy sprzętowe.
 
 Wprowadza jedynie i aż modół moderacyjny wraz z configiem do niego.
 Kod został zoptymalizowany aby nawet na beznadziejnym hostingu/PC działać, wymaga poniżej ~ 15MB ramu.
