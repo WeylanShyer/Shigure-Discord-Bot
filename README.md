@@ -1,4 +1,4 @@
-# Shigure-Discord-Bot
+# Shigure Discord Bot
 Discord bot by Weylan Shyer
 
 Shigure to jeden z nielicznych polskich botów do Discord.
@@ -14,11 +14,18 @@ https://imgur.com/a/2bhEBe2
 
 
 # Jak zainstalować?
-1. Pobierz & zainstaluj Node js *(https://nodejs.org/en/)*
-2. Uzupełnij **config.js**, niezbędnymi informacjami
-3. Uruchom konsole z naprowadzoną ścieżką na ten folder
-(Otwórz konsolę w folderze)
-4. Zainstaluj niezbędne biblioteki poleceniem `npm i`
-5. **[OPCOJANLNE]** Możesz w razie czego zaktualizować paczki polceniem `npm update`
-6. Uruchom bota wpisując polecenie `node .` lub `node shigure-heart.js`
-7. Gotowe! Możesz zaprosić bota na swój serwer korzystając w wygenerowanego zaproszenia w konsoli
+>1. Pobierz & zainstaluj Node js *(https://nodejs.org/en/)*
+>2. Uzupełnij **config.js**, niezbędnymi informacjami
+>3. Uruchom konsole z naprowadzoną ścieżką na ten folder
+>(Otwórz konsolę w folderze)
+>4. Zainstaluj niezbędne biblioteki poleceniem `npm i`
+>5. **[OPCOJANLNE]** Możesz w razie czego zaktualizować paczki polceniem `npm update`
+>6. Uruchom bota wpisując polecenie `node .` lub `node shigure-heart.js`
+>7. Gotowe! Możesz zaprosić bota na swój serwer korzystając w wygenerowanego zaproszenia w konsoli
+
+
+
+
+# Author
+Shigure Bot © **Weylan Shyer**, Released under Apache-2.0 license.
+*Authored and maintained by Weylan Shyer*
