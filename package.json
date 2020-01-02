@@ -1,0 +1,25 @@
+{
+  "name": "shigure-an-anime-guardian",
+  "version": "1.0.0",
+  "description": "Multipurpose, locally hosted bot. Most focused on moderation and information modules.",
+  "main": "shigure-heart.js",
+  "scripts": {
+    "test": "Hello World! This is a test message."
+  },
+  "author": "Weylan Shyer (Znudzony)",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "common-tags": "^1.8.0",
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^11.5.1",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.3.2",
+    "node-opus": "^0.3.3",
+    "os": "^0.1.1",
+    "save": "^2.4.0",
+    "ytdl-core": "^1.0.5"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  }
+}
